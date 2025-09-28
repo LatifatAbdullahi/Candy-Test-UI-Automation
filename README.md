@@ -1,6 +1,6 @@
 # 🎭Candy Test UI Automation
 
-This project uses **Playwright** and **TypeScript** to run automated tests for Velixo.
+This project uses **Playwright** and **TypeScript** to run automated tests for Candy.
 
 ## 📦 What You Need
 
