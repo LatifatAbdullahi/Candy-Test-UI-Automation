@@ -58,7 +58,7 @@ To run the project locally, do the following:
 [Candy Bugs](https://docs.google.com/spreadsheets/d/1pq6EKcpc0INv6lyt8nlGkWRHnOAZRgEj/edit?usp=sharing&ouid=109334919897706172290&rtpof=true&sd=true)
 
 
-### Candy Case Study a
+### Candy Case Study 
 
 [Candy Case study and Collaboration](https://drive.google.com/file/d/1wVWdjdvsdM-T6tPdnYC5IIWHNiAAWMpc/view?usp=sharing)
 
